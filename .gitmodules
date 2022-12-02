@@ -1,3 +1,6 @@
 [submodule "TrainingRepository"]
 	path = TrainingRepository
 	url = https://github.com/ekaterinamudrenko/TrainingRepository
+[submodule "SubmoduleRepository"]
+	path = SubmoduleRepository
+	url = https://github.com/ekaterinamudrenko/SubmoduleRepository
